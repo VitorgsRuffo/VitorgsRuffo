@@ -22,7 +22,7 @@ My focus is to learn computer science fundamentals, such as problem-solving, alg
 </h4>
 
 <p align="center">
-    <a target="_blank"href="https://www.linkedin.com/in/vitor-ruffo-8211731b6/?locale=en_US"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://www.linkedin.com/in/vitor-gs-ruffo/?locale=en_US"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:vitor.gs.ruffo@gmail.com?subject=Hello%20Vitor,%20I%20found%20you%20on%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
