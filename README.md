@@ -1,4 +1,4 @@
-<h2 align="center"><samp> Hi there 👋 welcome to my Github! </samp></h2>
+<h2 align="center"><samp> Hi there 👋, welcome to my Github! </samp></h2>
 <h4 align="center"><samp>I graduated in Computer Science at the State University of Londrina (UEL) and I'm currently pursuing a master's degree.</samp></h4>
 
 <p align="center">
