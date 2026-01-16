@@ -7,7 +7,7 @@
 
 <p>
   <samp>
-Vitor G. da Silva Ruffo received a B.Sc. degree (summa cum laude) and a M.Sc. degree in computer science from the State University of Londrina (UEL), Londrina, Brazil, in 2023 and 2025. He is currently pursuing a Ph.D. degree in electrical engineering at UEL. He has been an active member of the ORION research group from UEL's computer science department since 2021. His research interest includes software-defined networking, network anomaly detection, and deep learning.
+Vitor G. da Silva Ruffo received a B.Sc. degree (summa cum laude) and a M.Sc. degree in computer science from the State University of Londrina (UEL), Londrina, Brazil, in 2023 and 2025. He is currently pursuing a Ph.D. degree in electrical engineering at UEL. He is a visiting researcher at the Polytechnic University of Valencia, Gandia, Spain. He has been an active member of the ORION research group from UEL's computer science department since 2021. His research interest includes network anomaly detection, deep learning, and concept drift.
   </samp>
 </p>
 
